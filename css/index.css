@@ -66,16 +66,15 @@ div.CAT2
 .prod4
 
 {
-    float: right;
-    width: 10cm;
-    height: 10cm;
+    text-align: right;
     
 }
 
 .imgprod3
 {
-    
-    margin-left: 400px;
+    width: 10cm;
+    height: 10cm;
+    margin-left: 550px;
 }
 .samsung
 {
@@ -85,7 +84,34 @@ div.CAT2
 .prix
 {
     margin-left: 650px;
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder;
+}
+
+.prod4txt
+{
+    text-align: right;
+    
+}
+
+.imgprod4
+{
+    width: 10cm;
+    height: 10cm;
+    float: right;
+}
+
+.img3
+{
+    width: 10cm;
+    height: 10cm;
+    float: left;
+}
+.discr
+{
+    margin-left: 250px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
