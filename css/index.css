@@ -46,4 +46,28 @@ div.CAT2
 .index 
 {
     background-image: none;
+    
+}
+
+.h1class
+{
+    text-decoration: none;
+    color: black;
+}
+
+.prod3
+
+{
+    float: right;
+    width: 10cm;
+    height: 10cm;
+    
+}
+.prod4
+
+{
+    float: right;
+    width: 10cm;
+    height: 10cm;
+    
 }
