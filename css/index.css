@@ -1,0 +1,49 @@
+div.PA
+{
+    text-align: center;
+    margin: 0 0 10px 10px;
+}
+div.CAT1
+{
+    float: left;
+   
+}
+div.CAT2
+{
+    float: right;
+ 
+}
+
+.img1
+
+{
+    float: left;
+    width: 10cm;
+    height: 10cm;
+    
+}
+
+.img2
+
+{
+    float: right;
+    width: 10cm;
+    height: 10cm;
+    
+}
+
+.titre1
+{
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.titre2
+{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.index 
+{
+    background-image: none;
+}
