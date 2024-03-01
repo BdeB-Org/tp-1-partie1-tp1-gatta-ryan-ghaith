@@ -140,7 +140,6 @@ div.CAT2
 .Prod1img {
     width: 25%;
     height: auto;
-    background: grey;
     margin-left: 500px;
 
 }
@@ -155,4 +154,29 @@ font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial
 margin-left: 44%;
 
 
+}
+
+.prod2 {
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    background-color: #f4f4f4;
+    padding: 10px;
+    box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.1);
+    padding-left: 45%;
+    font-weight: 2000;
+}
+.imgprod2 {
+    width: 25%;
+    height: auto;
+    margin-left: 500px;
+}
+
+.Prod2txt {
+    font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif ;
+    margin-left: 36%;
+    padding: 7px;
+    font-weight: 300;
+}
+.Prod2prix {
+    font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif ;
+    margin-left: 44%;
 }
